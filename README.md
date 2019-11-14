@@ -161,3 +161,7 @@ script <- getURL("https://raw.githubusercontent.com/tdelhomme/R-tips-tricks/mast
 eval(parse(text = script))
 ```
 
+
+## Rmarkdown meets Nextflow
+
+- [ ] [Heuristic for complex Rmd (parameterised, has .bib, has .css)](https://github.com/NYU-Molecular-Pathology/NGS580-nf/blob/3ba2f970c3fbee56080ba60727f7bf43cb1be3b2/main.nf#L5071)
